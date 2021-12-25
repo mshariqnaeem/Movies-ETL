@@ -1,9 +1,3 @@
-# Config files
-config.py
-
-# 700 MB ratings csv file
-*/ratings.csv
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
